@@ -6,4 +6,4 @@ Some text added to Alice.
 
 testing rebasing!!
 
-Testing github remote changes and fetching
+Testing github remote changes, fetching, pulling and git stash
