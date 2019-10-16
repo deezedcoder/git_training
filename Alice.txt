@@ -7,3 +7,5 @@ Some text added to Alice.
 testing rebasing!!
 
 Testing github remote changes, fetching, pulling and git stash
+
+Now creating conflicts between our Local and Remote Repositories.
